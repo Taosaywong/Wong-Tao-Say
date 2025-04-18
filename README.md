@@ -5,10 +5,10 @@
 
 📁 Final Year Project Source Code
 Front End (React Native):
-🔗 GitHub Repository
+🔗 https://github.com/Taosaywong/Final-Project-React-Native
 
 Back End (Django):
-🔗 GitHub Repository
+🔗 https://github.com/Taosaywong/Final-Project-Django-Backend
 
 🚧 Current Focus
 Building an AR Indoor Navigation System for a Smart Shopping experience 🛍️
