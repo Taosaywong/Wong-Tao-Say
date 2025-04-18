@@ -1,34 +1,44 @@
-# 👋 Hi, I'm Wong Tao Say  
+👋 Hi, I'm Wong Tao Say
 🎓 Final Year Student at SEGi College Penang
 
-📁 Final Year Project source code will be **uploaded on 17 April 2025**  
-🚀 Official launch is planned for the **end of April 2025**
+🚀 Final Year Project Launching End of April 2025
 
----
+📁 Final Year Project Source Code
+Front End (React Native):
+🔗 GitHub Repository
 
-## 🚀 Current Focus
-- Developing an **AR Indoor Navigation System** for Smart Shopping 🛍️
-- Integrating **ARCore** with **React Native** and **Kotlin**
+Back End (Django):
+🔗 GitHub Repository
 
----
+🚧 Current Focus
+Building an AR Indoor Navigation System for a Smart Shopping experience 🛍️
 
-## 💻 Tech Stack
-- React Native
-- Kotlin (ARCore)
-- Python
+Integrating ARCore (Kotlin) with React Native
 
----
+🛠️ Tech Stack
+React Native
 
-## 🔍 Interests
-- AR Indoor Navigation
-- Mobile App Development
+Kotlin (ARCore)
 
----
+Python (Django)
 
-## 📬 Open to Opportunities
-- Internship: **May–Nov 2025**
-- Roles: Mobile Developer | Python Developer | Web Developer
+🔍 Interests
+Augmented Reality (AR) in Mobile Applications
 
----
+Indoor Navigation Solutions
 
-Thanks for stopping by! 🙌
+Full Stack Development
+
+📬 Open to Opportunities
+📆 Internship Period: May – Nov 2025
+
+💼 Preferred Roles:
+
+Mobile Developer
+
+Python Developer
+
+Web Developer
+
+Thanks for dropping by! 🙌
+Feel free to connect or check out my projects!
